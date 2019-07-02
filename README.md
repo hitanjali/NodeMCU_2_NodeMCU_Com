@@ -1,4 +1,4 @@
-# NodeMCU_2_NodeMCU_Com
+# NodeMCU_2_Mesh_MQTT
 Node MCU mesh and to MQTT broker
 
 The root node : Acts as MQTT bridge and connects to MQTT broker. 
